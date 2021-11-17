@@ -1,7 +1,7 @@
 # Creating Note App with Typescript React 
-
+##
 > # [See project here](https://mata0050.github.io/notesapp/) :point_left:
-
+#
 Learning how to implement **Typescript**. Create a small application just to try understand how **Typescript** works in React. 
 
 For Styling l used bootstrap as the main focus was learning **Typescript**.
